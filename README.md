@@ -6,7 +6,6 @@
 - 📫 Reach me: engr.junaid.ali1@gmail.com
 - ⚡ Quote: The only place where "SUCCESS" comes before the "WORK" is in dictionary !...
 
-## Have a great day! 🤍
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=junaidali1&&show_icons=true&theme=tokyonight)
 
 <!--
