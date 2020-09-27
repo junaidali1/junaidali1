@@ -1,5 +1,9 @@
 ### Hi there 👋 This is Junaid Ali
 ![counter](https://enepz9y4vt3svs0.m.pipedream.net)
+
+<a href="https://github.com/Aaqib925">
+    <img src="https://komarev.com/ghpvc/?username=Aaqib925">
+</a>
 - 👯 Learned Python ...
 - 🌱 Currently learning C++ ...
 - 💬 Always available to help you
